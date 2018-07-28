@@ -3,11 +3,11 @@ title: ZKWS Blog
 SEOTitle: 张康的博客 | ZKWS Blog
 header-img: img/post-bg-desk.jpg
 email: 15201650319@163.com
-description: "Every failure is leading towards success."
+description: "如果你有爱的人，允许他们自由随意的存在。给予而不索取；建议而不命令；请求而不要求；可能听起来简单，但这需要一辈子去实践。这就是真爱的秘诀。真正去实践它，你必须对那些你爱的人没有期望，并给予无条件的关爱"
 keyword: "ZKWS, ZKWS Blog, 张康的博客, zhangkang, 张康"
 url: "http://zkws.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/zkws/zkws.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
