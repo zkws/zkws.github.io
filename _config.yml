@@ -1,17 +1,17 @@
 # Site settings
 title: ZKWS Blog
-SEOTitle: 张康的博客 | ZKWS Blog
+SEOTitle: ZK的博客 | ZKWS Blog
 header-img: img/post-bg-desk.jpg
 email: 15201650319@163.com
 description: "如果你有爱的人，允许他们自由随意的存在。给予而不索取；建议而不命令；请求而不要求；可能听起来简单，但这需要一辈子去实践。这就是真爱的秘诀。真正去实践它，你必须对那些你爱的人没有期望，并给予无条件的关爱"
-keyword: "ZKWS, ZKWS Blog, 张康的博客, zhangkang, 张康"
+keyword: "ZKWS, ZKWS Blog, ZK的博客"
 url: "http://zkws.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zkws/zkws.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Go hard or go home!"
 sidebar-avatar: /img/about-ZK-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -86,7 +86,7 @@ ga_domain: alexzhang.top               # 默认的是 auto, 这里我是自定�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
